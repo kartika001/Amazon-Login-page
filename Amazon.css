@@ -1,0 +1,47 @@
+.h1{
+
+  margin-left: 600px;
+  margin-right: 600px;
+
+}
+.h7{
+  font-size: 40px;
+}
+
+.h5{
+  margin-left: 120px;
+}
+a{
+  color: #7CA0E8;
+
+}
+
+.h2 {
+color: #F2C965;
+}
+
+.sign-in{
+  background: linear-gradient(#F2C965,#F2C688);
+  width: 225px;
+}
+
+.CA {
+    background: linear-gradient(#E74C3C,#007FC7)
+}
+
+fieldset{
+  margin-left: 500px;
+  margin-right: 750px;
+  color: black;
+
+}
+
+img{
+  align-self: center;
+  margin-left: 0px;
+}
+
+.h3{
+  margin-left: 500px;
+  margin-right: 500px;
+}
